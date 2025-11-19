@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Oswald';
+    background: azure;
+    color: rgb(25, 95, 151);
+}
+
+footer {
+    background: white;
+}
